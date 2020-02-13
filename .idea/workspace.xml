@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c699ad60-1fdc-45e4-8f8c-817e5f4c522f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +32,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Decorator" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Decorator" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/CompositeAssignment" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Coffe_Store">
+  <component name="RunManager" selected="Application.CoffeStoreDecorator">
+    <configuration name="CoffeStoreDecorator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decorator.CoffeStoreDecorator" />
+      <module name="JavaDesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Coffe_Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StrategyPattern_Payment.Coffe_Store" />
       <module name="JavaDesignPatterns" />
@@ -79,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoffeStoreDecorator" />
         <item itemvalue="Application.Coffe_Store" />
         <item itemvalue="Application.Composite_Pattern" />
         <item itemvalue="Application.CompositePattern" />
@@ -107,30 +124,30 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581542492656" />
-    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581541843029">
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581552138068">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581541843029" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581552138068" />
     <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl" timestamp="1581455445375">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581455445375" />
-    <state width="1807" height="253" key="GridCell.Tab.0.bottom" timestamp="1581542506878">
+    <state width="1807" height="253" key="GridCell.Tab.0.bottom" timestamp="1581553536234">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="253" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581542506878" />
-    <state width="1807" height="253" key="GridCell.Tab.0.center" timestamp="1581542506878">
+    <state width="1807" height="253" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581553536234" />
+    <state width="1807" height="253" key="GridCell.Tab.0.center" timestamp="1581553536233">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="253" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581542506878" />
-    <state width="1807" height="253" key="GridCell.Tab.0.left" timestamp="1581542506878">
+    <state width="1807" height="253" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581553536233" />
+    <state width="1807" height="253" key="GridCell.Tab.0.left" timestamp="1581553536233">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="253" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581542506878" />
-    <state width="1807" height="253" key="GridCell.Tab.0.right" timestamp="1581542506878">
+    <state width="1807" height="253" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581553536233" />
+    <state width="1807" height="253" key="GridCell.Tab.0.right" timestamp="1581553536234">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="253" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581542506878" />
+    <state width="1807" height="253" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581553536234" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1581460317869">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -139,10 +156,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581460518559" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1581460787219">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1581552055113">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581460787219" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581552055113" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
