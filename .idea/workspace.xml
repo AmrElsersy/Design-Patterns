@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c699ad60-1fdc-45e4-8f8c-817e5f4c522f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPatterns/ChainOfResponsibility/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPatterns/ChainOfResponsibility/Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPatterns/ChainOfResponsibility/emailSpanHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDesignPatterns/ChainOfResponsibility/emailSpanHandler.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Decorator" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Vn7zFm0SEemSphKEUWYCag_4f8f861868124d5482fd87a14e2c2855_SharingApp_c2_starter_command_pattern/SharingApp/app/src/main/java/com/example/sharingapp" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -46,7 +48,7 @@
       <recent name="$PROJECT_DIR$/src/CompositeAssignment" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Gmail">
+  <component name="RunManager" selected="Application.ObserverPattern">
     <configuration name="CoffeStoreDecorator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Decorator.CoffeStoreDecorator" />
       <module name="JavaDesignPatterns" />
@@ -60,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coffe_Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StrategyPattern_Payment.Coffe_Store" />
+    <configuration name="Gmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibility.Gmail" />
       <module name="JavaDesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StrategyPattern_Payment.*" />
+          <option name="PATTERN" value="ChainOfResponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,19 +75,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Composite_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Composite_Pattern" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatePattern.Main" />
       <module name="JavaDesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StatePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibility.Gmail" />
+    <configuration name="ObserverPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObserverAssignment.ObserverPattern" />
       <module name="JavaDesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChainOfResponsibility.*" />
+          <option name="PATTERN" value="ObserverAssignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverPattern" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Gmail" />
         <item itemvalue="Application.Resturant" />
         <item itemvalue="Application.CoffeStoreDecorator" />
-        <item itemvalue="Application.Coffe_Store" />
-        <item itemvalue="Application.Composite_Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -138,42 +146,42 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581542492656" />
-    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581552138068">
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581703153184">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581552138068" />
-    <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl" timestamp="1581455445375">
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581703153184" />
+    <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl" timestamp="1581887929875">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581455445375" />
-    <state width="1807" height="253" key="GridCell.Tab.0.bottom" timestamp="1581646251078">
+    <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581887929875" />
+    <state width="1807" height="253" key="GridCell.Tab.0.bottom" timestamp="1581719130823">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="253" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581646251078" />
-    <state width="1807" height="253" key="GridCell.Tab.0.center" timestamp="1581646251077">
+    <state width="1807" height="253" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581719130823" />
+    <state width="1807" height="253" key="GridCell.Tab.0.center" timestamp="1581719130820">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="253" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581646251077" />
-    <state width="1807" height="253" key="GridCell.Tab.0.left" timestamp="1581646251077">
+    <state width="1807" height="253" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581719130820" />
+    <state width="1807" height="253" key="GridCell.Tab.0.left" timestamp="1581719130820">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="253" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581646251077" />
-    <state width="1807" height="253" key="GridCell.Tab.0.right" timestamp="1581646251077">
+    <state width="1807" height="253" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581719130820" />
+    <state width="1807" height="253" key="GridCell.Tab.0.right" timestamp="1581719130821">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="253" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581646251077" />
+    <state width="1807" height="253" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581719130821" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1581460317869">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581460317869" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581460518559">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581887678208">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581460518559" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1581552055113">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581887678208" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1581703954589">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581552055113" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581703954589" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
